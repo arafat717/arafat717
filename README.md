@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arafat Hossen Joni</h1>
-![Banner](https://i.ibb.co/6JPtymC/1.jpg){ width=800px height=200px }
+<img src="https://i.ibb.co/6JPtymC/1.jpg" alt="GitHub Logo" width="200" height="200">
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 - 👨‍💻 All of my projects are available at [https://arafats-protfolio.vercel.app/](https://arafats-protfolio.vercel.app/)
