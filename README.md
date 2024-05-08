@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react,Next js, redux,typescript**
 
-- 📫 How to reach me **arafatjibon33@gmail.com**
+- 📫 How to reach me arafatjibon33@gmail.com
   
 
 <h3>Where to find me</h3>
