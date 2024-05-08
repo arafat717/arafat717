@@ -40,7 +40,7 @@
 
 <br/>
   
-<h1 align="left">GitHub statistics</h1>
+<h1 align="left">GitHub stats</h1>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafat717&show_icons=true&locale=en&layout=compact" alt="arafat717" /></p>
