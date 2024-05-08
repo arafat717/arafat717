@@ -2,7 +2,6 @@
 <img src="https://i.ibb.co/WBxdtDY/1.png" alt="GitHub Logo" width="full" height="200">
 
 
-<h1>Work</h1>
 
 - 👨‍💻 All of my projects are available at [https://arafats-protfolio.vercel.app/](https://arafats-protfolio.vercel.app/)
 
