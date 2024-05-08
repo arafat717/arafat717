@@ -38,7 +38,7 @@
   <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-47A248?style=flat-square&logo=mongoose&logoColor=white" />
   <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 <img alt="Material-UI" src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+<img alt="Shadcn" src="https://img.shields.io/badge/-Shadcn-DB7093?style=flat-square" />
 </p>
 
 <br/>
