@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://arafats-protfolio.vercel.app/](https://arafats-protfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://arafat-portfolio.vercel.app/](https://arafat-portfolio.vercel.app/)
 
 - 💬 Ask me about **react,Next js, redux,typescript**
 
