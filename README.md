@@ -1,7 +1,7 @@
-<h1>Hi 👋, I'm Arafat Hossen Joni</h1>
+
 <img src="https://i.ibb.co/WBxdtDY/1.png" alt="GitHub Logo" width="full" height="200">
 
-
+<h1>Hi 👋, I'm Arafat Hossen Joni</h1>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://arafat-jibon.vercel.app)
 
