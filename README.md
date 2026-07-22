@@ -32,7 +32,7 @@
 
 <br/>
 <h3>Things I code with</h3>
-# 💻 Technology Stack
+<h1># 💻 Technology Stack</h1>
 
 ### 🌐 Languages
 
