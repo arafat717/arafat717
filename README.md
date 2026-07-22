@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://arafat-jibon.vercel.app)
 
-- 💬 Ask me about **Next js, Typescript, NodeJs, postgreSQl**
+- 💬 Ask me about Next.js, React, TypeScript, Node.js, Express.js, PostgreSQL, MongoDB, Prisma, Docker, and AWS.
 
-- 📫 How to reach me arafatjibon33@gmail.com
+- 📫 Feel free to reach me out [Email](arafatjibon33@gmail.com)
   
 
 <h3>Where to find me</h3>
