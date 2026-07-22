@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arafat-portfolio.vercel.app/](https://arafat-jibon.vercel.app)
 
-- 💬 Ask me about **react,Next js, redux,typescript**
+- 💬 Ask me about **Next js, typescript, NodeJs, postgresQl**
 
 - 📫 How to reach me arafatjibon33@gmail.com
   
